@@ -20,3 +20,9 @@ var sum = 0;
 sum = numberOne + numberTwo;
 console.log(sum)
 
+//Zadanie 3 
+
+var nothing
+console.log(nothing)
+// Zwracane jest undefined bo zmienna nie posiada wartości
+
